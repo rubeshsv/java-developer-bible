@@ -1,6 +1,6 @@
 # Java Developer Bible 📖
 
-My journey from **QA Engineer → Amazon-level Software Development Engineer**.
+My journey from **QA Engineer → Software Development Engineer**.
 Started 2026-08-01. Studying ~10 hrs/week. Tracking every step here.
 
 ## Tech
