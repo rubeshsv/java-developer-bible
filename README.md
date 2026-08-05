@@ -1,7 +1,7 @@
 <!-- Animated typing header (animated SVG served as an image) -->
 <p align="center">
   <a href="https://github.com/rubeshsv/java-developer-bible">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=QA+Engineer+%E2%86%92+Amazon+SDE;Java+Developer+Bible+%F0%9F%93%96;Learning.+Building.+Growing." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=QA+Engineer+%E2%86%92+SDE;Java+Developer+Bible+%F0%9F%93%96;Learning.+Building.+Growing." alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,26 +11,26 @@
   <img src="https://img.shields.io/badge/Build-Maven-blue?logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?logo=intellijidea&logoColor=white" alt="IntelliJ" />
   <img src="https://img.shields.io/badge/Days%20Completed-5-brightgreen" alt="Days" />
-  <img src="https://img.shields.io/badge/Goal-Amazon%20SDE-232F3E?logo=amazon&logoColor=orange" alt="Goal" />
+  <img src="https://img.shields.io/badge/Goal-%20SDE-232F3E?logo=&logoColor=orange" alt="Goal" />
 </p>
 
 ---
 
-My journey from **QA Engineer → Amazon-level Software Development Engineer**.
+My journey from **QA Engineer →  Software Development Engineer**.
 Started **2026-08-01** · Pace **~10 hrs/week** · Tracking every step here.
 
 ## 📊 Progress
 
 `Fundamentals` ▓▓▓▓▓▓▓▓░░░░░░░░ **Day 5** · `Java Core` in progress
 
-| Phase | Months | Status |
-|-------|--------|--------|
-| Java Fundamentals | 1–4 | 🟢 In progress (Day 5) |
+| Phase                        | Months | Status |
+|------------------------------|--------|--------|
+| Java Fundamentals            | 1–4 | 🟢 In progress (Day 5) |
 | Data Structures & Algorithms | 5–7 | ⚪ Upcoming |
-| LLD & System Design | 8–9 | ⚪ Upcoming |
+| LLD & System Design          | 8–9 | ⚪ Upcoming |
 | Backend / REST (Spring Boot) | 10 | ⚪ Upcoming |
-| Amazon Practices (Coral/CRUX) | 11 | ⚪ Upcoming |
-| Capstone + Interview Prep | 12 | ⚪ Upcoming |
+| Git Practices (Coral/CRUX)   | 11 | ⚪ Upcoming |
+| Capstone + Interview Prep    | 12 | ⚪ Upcoming |
 
 ## 🗺️ Roadmap
 ```mermaid
@@ -38,7 +38,7 @@ graph LR
     A[Java Core<br/>M1-4] --> B[DSA<br/>M5-7]
     B --> C[LLD & System Design<br/>M8-9]
     C --> D[Backend / REST<br/>M10]
-    D --> E[Amazon Practices<br/>M11]
+    D --> E[Git Practices<br/>M11]
     E --> F[Capstone +<br/>Interviews M12]
     style A fill:#F7A41D,stroke:#333,color:#000
     style F fill:#232F3E,stroke:#F7A41D,color:#fff
