@@ -1,4 +1,4 @@
-package com.rubeshsv.bible.day4;
+package com.rubeshsv.bible.month1.week1.day4;
 
 import java.util.Scanner;
 

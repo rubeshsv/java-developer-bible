@@ -1,4 +1,4 @@
-package com.rubeshsv.bible.day3;
+package com.rubeshsv.bible.month1.week1.day3;
 import java.util.Scanner;
 
 public class ControlFlowBasics {
