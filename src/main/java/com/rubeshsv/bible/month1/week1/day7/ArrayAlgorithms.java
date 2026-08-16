@@ -50,7 +50,7 @@ public class ArrayAlgorithms {
                 maxResult =arr[i];
             }
         }
-        System.out.println("Minimum value is = "+maxResult);
+        System.out.println("Maximum value is = "+maxResult);
     }
 
     //Linear search: read a target number from the user and print its index, or "not found".
