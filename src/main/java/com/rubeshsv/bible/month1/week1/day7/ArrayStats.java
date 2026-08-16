@@ -21,6 +21,7 @@ public class ArrayStats {
         System.out.println("Average of given array is = "+avg(arr));
         System.out.println("Maximum value of the given array is = "+max(arr));
         System.out.println("Minimum value of the given array is = "+min(arr));
+        reverse(arr);
         System.out.println("Reverse of the given array is = "+ Arrays.toString(arr));
     }
 
@@ -33,12 +34,7 @@ public class ArrayStats {
     }
 
     public static double avg(int[] arr){
-        double avgResult = 0;
-        int addition = 0;
-        for(int i=0; i<arr.length;i++){
-            addition += arr[i];
-        }
-        avgResult=(double) addition/arr.length;
+        double avgResult = (double) sum(arr)/arr.length;
         return avgResult;
     }
 
