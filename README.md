@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white" alt="Java 21" />
   <img src="https://img.shields.io/badge/Build-Maven-blue?logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?logo=intellijidea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/Days%20Completed-7-brightgreen" alt="Days" />
+  <img src="https://img.shields.io/badge/Days%20Completed-8-brightgreen" alt="Days" />
   <img src="https://img.shields.io/badge/Goal-Amazon%20SDE-232F3E?logo=amazon&logoColor=orange" alt="Goal" />
 </p>
 
@@ -21,11 +21,11 @@ Started **2026-08-01** · Pace **~10 hrs/week** · Tracking every step here.
 
 ## 📊 Progress
 
-`Fundamentals` ▓▓▓▓▓▓▓▓▓▓░░░░░ **Day 7** · `Java Core` in progress
+`Fundamentals` ▓▓▓▓▓▓▓▓▓▓▓░░░░ **Day 8** · `Java Core` in progress
 
 | Phase | Months | Status |
 |-------|--------|--------|
-| Java Fundamentals | 1–4 | 🟢 In progress (Day 7) |
+| Java Fundamentals | 1–4 | 🟢 In progress (Day 8) |
 | Data Structures & Algorithms | 5–7 | ⚪ Upcoming |
 | LLD & System Design | 8–9 | ⚪ Upcoming |
 | Backend / REST (Spring Boot) | 10 | ⚪ Upcoming |
@@ -57,7 +57,8 @@ src/main/java/com/rubeshsv/bible/
 ├── day04/  LoopBasics · LoopProject · FizzBuzz
 ├── day05/  MethodBasics · CalculatorMethods
 ├── day06/  ArrayBasics
-└── day07/  ArrayAlgorithms · ArrayStats
+├── day07/  ArrayAlgorithms · ArrayStats
+└── day08/  StringBasics            (week2/day1 · Strings — in progress)
 ```
 
 ## 📅 Progress Log
@@ -71,6 +72,7 @@ src/main/java/com/rubeshsv/bible/
 | 5   | 2026-08-05 | Methods, overloading, scope, pass-by-value                      | ✅ |
 | 6   | 2026-08-08 | Arrays, indexing, for-each, references                          | ✅ |
 | 7   | 2026-08-16 | Array algorithms, Big-O, 2D arrays, design (return vs void)     | ✅ |
+| 8   | 2026-08-18 | Strings: methods, immutability, equals vs == (StringBuilder next) | 🟡 |
 
 ## 📈 GitHub Activity
 <p align="center">
