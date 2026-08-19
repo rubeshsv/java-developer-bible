@@ -58,7 +58,7 @@ src/main/java/com/rubeshsv/bible/
 ├── day05/  MethodBasics · CalculatorMethods
 ├── day06/  ArrayBasics
 ├── day07/  ArrayAlgorithms · ArrayStats
-└── day08/  StringBasics            (week2/day1 · Strings — in progress)
+└── day08/  StringBasics · StringBuilderDemo · Palindrome    (Strings)
 ```
 
 ## 📅 Progress Log
@@ -72,7 +72,7 @@ src/main/java/com/rubeshsv/bible/
 | 5   | 2026-08-05 | Methods, overloading, scope, pass-by-value                      | ✅ |
 | 6   | 2026-08-08 | Arrays, indexing, for-each, references                          | ✅ |
 | 7   | 2026-08-16 | Array algorithms, Big-O, 2D arrays, design (return vs void)     | ✅ |
-| 8   | 2026-08-18 | Strings: methods, immutability, equals vs == (StringBuilder next) | 🟡 |
+| 8   | 2026-08-18–19 | Strings: methods, immutability, equals vs ==, StringBuilder, palindrome | ✅ |
 
 ## 📈 GitHub Activity
 <p align="center">
