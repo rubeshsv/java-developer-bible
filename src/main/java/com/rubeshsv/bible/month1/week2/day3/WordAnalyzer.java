@@ -9,14 +9,14 @@ package com.rubeshsv.bible.month1.week2.day3;
 
 public class WordAnalyzer {
     public static void main(String[] args) {
-        String[] word = {"madam", "hello", "level", "java", "noon"};
+        String[] words = {"madam", "hello", "level", "java", "noon"};
         int palindromeFound = 0;
-        for (int i = 0; i < word.length; i++) {
-            boolean result = isPalindrome(word[i]);
+        for (int i = 0; i < words.length; i++) {
+            boolean result = isPalindrome(words[i]);
             if (result) {
                 palindromeFound++;
             }
-            System.out.println(word[i] + " -> " + result);
+            System.out.println(words[i] + " -> " + result);
         }
         System.out.println("Palindromes found: " + palindromeFound);
     }
